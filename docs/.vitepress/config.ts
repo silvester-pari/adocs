@@ -15,7 +15,8 @@ export default {
     },
     // Navbar Link
     nav: [
-      { text: "Story", link: "/story" },
+      { text: "Story Page", link: "/story-page" },
+      { text: "Story Blank", link: "/story-blank" },
       { text: "About", link: "/about" },
       { text: "Contact", link: "/contact" },
       { text: "Guide", link: "/guide" },

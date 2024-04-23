@@ -1,3 +1,5 @@
+import "https://unpkg.com/@eox/storytelling"
+
 export default {
   title: "Adocs",
   description: "An awesome docs template built by me",

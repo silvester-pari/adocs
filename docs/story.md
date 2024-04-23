@@ -3,5 +3,5 @@ layout: false
 ---
 
 <ClientOnly>
-  <eox-storytelling markdown-url="/story.md"></eox-storytelling>
+  <eox-storytelling markdown-url="./story-file.md"></eox-storytelling>
 </ClientOnly>

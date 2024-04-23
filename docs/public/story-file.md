@@ -19,3 +19,9 @@ The contents of the catalog is actually managed by a public GitHub repository, a
 ## FutureEO <!--{as="esa-main-section"}-->
 ### FutureEO
 For all components (technology, community, partnerships), the Reproducible Open Science Environment can rely on elements developed as part of other FutureEO activities and on readily available operational services provided by Member States' public and industrial facilities, including interoperable building blocks, platform services, Open Science capacity building, scientific communication, and international cooperation.
+
+## Lightbox Images <!--{.some-comment}-->
+Click on any image to open it in a lightbox.
+
+![Image](https://i.imgur.com/GDAStfX.jpeg)<!-- {width=700} -->
+![Image](https://i.imgur.com/m6A4LzQ.jpeg)<!-- {width=700} -->

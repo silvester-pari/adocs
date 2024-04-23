@@ -8,7 +8,7 @@ export default {
   ignoreDeadLinks: true,
 
   head: [
-    ['script', { src: 'https://unpkg.com/@eox/map' }]
+    ['script', { src: 'https://unpkg.com/@eox/storytelling' }]
   ],
   
   themeConfig: {

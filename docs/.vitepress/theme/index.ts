@@ -5,7 +5,7 @@ export default {
   extends: DefaultTheme,
   async enhanceApp({ app }) {
     if (!import.meta.env.SSR) {
-      const plugin = await import('@eox/map')
+      const plugin = await import('@eox/storytelling')
       app.use(plugin)
     }
   }

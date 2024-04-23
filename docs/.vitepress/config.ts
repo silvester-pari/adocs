@@ -1,4 +1,4 @@
-import "https://unpkg.com/@eox/storytelling"
+import "@eox/storytelling"
 
 export default {
   title: "Adocs",
